@@ -67,6 +67,12 @@ picture {
     display: flex;
 }
 
+.perfume_img {
+    border-radius: 15px 0 0 15px;
+    ;
+}
+
+
 .description {
     opacity: 70%;
     font-family: 'Montserrat', sans-serif;
@@ -118,10 +124,6 @@ button p {
     padding: 30px;
     border-radius: 0 15px 15px 0;
 }
-
-.perfume_img {}
-
-
 
 .prices {
     display: flex;
